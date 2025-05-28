@@ -2,6 +2,8 @@
 title: Skill-Driven Neurosymbolic State Abstractions
 layout: default
 ---
+<em class="parantheses" style="text-align: center">The content on this page is sourced from the original paper.</em>
+
 We consider how to construct state abstractions compatible with a given set of abstract actions, to obtain a well-formed abstract Markov decision process (MDP). Imagine an agent interacting in the environments below using a set of abstract actions (also known as <em>options</em>).
 <figure style="width: 80%; margin: auto">
     <video width="100%" loop autoplay muted>
@@ -64,4 +66,3 @@ The result is a framework for constructing abstract MDPs built upon principled t
     </figcaption>
 </figure>
 
-<em class="parantheses" style="text-align: center">The content on this page is sourced from the original paper.</em>
