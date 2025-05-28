@@ -60,6 +60,8 @@ The result is a framework for constructing abstract MDPs built upon principled t
         Your browser does not support the video tag.
     </video>
     <figcaption>
-        <b>Figure 3:</b> The agent collects high-dimensional observations. MSA representations&mdash;in this case, we set them to 2-dimensional vectors&mdash;are learned through these transitions. Then, abstract states are constructed and iteratively refined until the desired threshold is met. The result is an abstract MDP, constructed in a principled way while leveraging the power of neural nets. Planning can now take place over this abstract MDP using planners ranging from value iteration to classical planners.
+        <b>Figure 3:</b> The agent collects high-dimensional observations. MSA representations&mdash;in this case, we set them to 2-dimensional vectors&mdash;are learned through these transitions. Then, abstract states are constructed and iteratively refined until the desired threshold is met. The result is an abstract MDP, constructed in a principled way while leveraging the power of neural nets. Planning can now take place over this abstract MDP using planners ranging from value iteration to classical planners
     </figcaption>
 </figure>
+
+<em class="parantheses" style="text-align: center">The content on this page is sourced from the original paper.</em>
